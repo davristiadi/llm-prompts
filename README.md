@@ -1,2 +1,2 @@
-# llm-system-prompts
-My private meta-prompted system prompts to enhance interactions.
+# llm-prompts
+My collection of prompts to enhance LLM interactions, including system prompts and other types.
